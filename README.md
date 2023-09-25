@@ -10,4 +10,4 @@ Wine Quality Prediction:
 Iris Flowers Classification:
     This project focuses on the classification of different species of iris flowers using logistic regression. By considering the length of petals and sepals, the machine learning model can identify the species accurately. The Google Colab notebook code provides comprehensive explanations of the data preprocessing, model training, and classification process.
 
-All three projects are designed to demonstrate the application of  regression in specific domains, showcasing how it can be used effectively for prediction tasks. By exploring the provided Jupyter notebook code, users can gain a deeper understanding of the implementation details and potentially apply similar techniques to their own projects.
+All three projects are designed to demonstrate the application of  regression in specific domains, showcasing how it can be used effectively for prediction tasks. By exploring the provided Google Colab notebook code, users can gain a deeper understanding of the implementation details and potentially apply similar techniques to their own projects.
